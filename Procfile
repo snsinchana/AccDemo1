@@ -1,1 +1,1 @@
-java -cp target/classes:target/dependency/* AccDemo1
+java -cp target/classes:target/dependency/* MercFirstDemo
